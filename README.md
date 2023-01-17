@@ -3,9 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-freitas-da-silva-8a708a223/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arturfreiitass/)
-
-![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturfreiitas&show_icons=true&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturfreiitas)](https://github.com/arturfreiitas/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
